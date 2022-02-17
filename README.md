@@ -7,6 +7,7 @@
 - 🤔 I’m looking for help with Nextjs, Backend
 - 💬 Ask me about any tech-related stuff.
 - 📫 How to reach me: moniquechettyp@gmail.com
+- 📫 My Web page https://monique-chetty-resume.vercel.app/
 - 😄 Pronouns: She
 <!-- ⚡ Fun fact: ... -->
 
