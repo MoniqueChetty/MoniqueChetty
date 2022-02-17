@@ -18,9 +18,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
      
-<a href="https://twitter.com/MoniqueChetty1" target="blank"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="moniquechetty" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/monique-chetty-33890593" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="monique-chetty-33890593" height="40" width="40" /></a>
 <a href="https://monique-chetty-resume.vercel.app/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="monique-chetty-33890593" height="40" width="40" /></a>
+<a href="https://twitter.com/MoniqueChetty1" target="blank"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="moniquechetty" height="40" width="40" /></a>
+
 <!--<a href="https://icons8.com/icon/13930/linkedin">LinkedIn icon by Icons8</a> -->
 <!-- <a href="https://instagram.com/monique-chetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/moniquechetty/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moniquechetty" height="30" width="40" /></a> -->
 <!-- <a href="https://www.youtube.com/c/moniquechetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/moniquechetty/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="moniquechetty" height="30" width="40" /></a> -->
