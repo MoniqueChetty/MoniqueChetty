@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there I am Monique 👋
 
-<!--
-**MoniqueChetty/MoniqueChetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on Nextjs, Frontend, Wordpress
+🌱 I’m currently learning Nextjs
+👯 I’m looking to collaborate on Nextjs, Backend
+🤔 I’m looking for help with Nextjs, Backend
+💬 Ask me about any tech-related stuff.
+📫 How to reach me: moniquechettyp@gmail.com
+😄 Pronouns: She
+<!-- ⚡ Fun fact: ... -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=moniquechetty&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+
+
+
+Languages and Tools:
+
+     
+
+ 
+Show some ❤️ by starring some of the repositories!
